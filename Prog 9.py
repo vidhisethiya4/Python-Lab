@@ -1,6 +1,6 @@
-my_tuple = (1,0,2,5,0,0,6)
-c = 0 
+my_tuple = (7,0,8,0,0,9)
+z = 0 
 for x in my_tuple: 
     if x == 0: 
-        c += 1 
-print("No of zeros: " , c)
+        z += 1 
+print("No of zeros: " , z)
