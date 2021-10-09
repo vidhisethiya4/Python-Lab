@@ -1,6 +1,6 @@
 total = 0
 
-list = [11, 5, 17, 18]
+list = [1, 2, 3, 4]
 
 for ele in range(0, len(list)):
     total = total + list[ele]
